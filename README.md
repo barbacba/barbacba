@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://instagram.fcor10-4.fna.fbcdn.net/v/t51.2885-19/424620532_675341524801774_5358983842327064552_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fcor10-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=LY9V4K6EWF4AX_ckdXx&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBSvnYHF-F0fa6r_i953G4M-JKetcBh10LbTvoTD3hMJw&oe=65D9E83A&_nc_sid=8b3546">
+    <img width="200" src="./imagen_alta_resolucion.jpg">
 </p>
 <h1 align="center">Hi 👋, I'm Fernando Areosa</h1>
 <h3 align="center">A passionate Fullstack developer from Argentina</h3>
