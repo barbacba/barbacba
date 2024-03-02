@@ -12,9 +12,18 @@
 
 - 📫 How to reach me **fernando_areosa@hotmail.com.ar**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18G6JqpZRI6CRA2B0BIoE1HFBj23ftw7O/view?usp=sharing](https://drive.google.com/file/d/18G6JqpZRI6CRA2B0BIoE1HFBj23ftw7O/view?usp=sharing)
+- 📄 Know about my experiences [Curriculum ENG](https://drive.google.com/file/d/1V7rifAPtmAAG0i9vi_kvHRgFhTJLHUd0/view?usp=sharing) [Curriculum ESP](https://drive.google.com/file/d/1jS5h9N8PCUGqhtCVGos29UBcdQsJXlje/view?usp=sharing)
 
 - ⚡ Fun fact **I love Star Wars and Star Trek too**
+
+<h3 align="left">WordPress Works on-line:</h3>
+
+- [Ilustradolar](https://ilustradolar.shop)
+
+- [300%](http://300porciento.com.ar)
+
+- [Don Reseña](https://donreseña.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
